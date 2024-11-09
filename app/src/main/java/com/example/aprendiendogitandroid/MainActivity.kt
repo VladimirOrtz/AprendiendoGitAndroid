@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             AprendiendoGitAndroidTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Subir el primer comit",
+                        name = "Subir el segundo comit",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
